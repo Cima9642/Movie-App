@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Authors
 
-- [@cima9642](https://www.github.com/cima9642)
+[Carlos Martinez](https://www.github.com/cima9642)
 
 
 ## 🔗 Links
